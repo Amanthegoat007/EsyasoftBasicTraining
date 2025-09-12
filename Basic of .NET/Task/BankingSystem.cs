@@ -43,6 +43,11 @@ public class BankSystem
                     break;
 
                 case 2:
+                if (accountValue == 0)
+                    {
+                        Console.WriteLine("First Create an Account");
+                        break;
+                    }
                     Console.WriteLine("Depositing money...");
                     // Logic for depositing money
                     Console.Write("Enter amount to deposit: ");
@@ -64,14 +69,15 @@ public class BankSystem
                     break;
 
                 case 3:
-                    Console.WriteLine("Withdrawing money...");
-                    // Logic for withdrawing money
-                    Console.Write("Enter amount to withdraw: ");
-                    if (accountValue == 0)
+                if (accountValue == 0)
                     {
                         Console.WriteLine("First Create an Account");
                         break;
                     }
+                    Console.WriteLine("Withdrawing money...");
+                    // Logic for withdrawing money
+                    Console.Write("Enter amount to withdraw: ");
+                    
                     string withdrawAmountInput = Console.ReadLine();
                     if (decimal.TryParse(withdrawAmountInput, out decimal withdrawAmount) && withdrawAmount > 0)
                     {
