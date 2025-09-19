@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\obj\Debug\net8.0\applicationLayer_data_access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\obj\Debug\net8.0\applicationLayer_data_access.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\obj\Debug\net8.0\applicationLayer_data_access.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\obj\Debug\net8.0\applicationLayer_data_access.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\bin\Debug\net8.0\applicationLayer_data_access.exe
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\bin\Debug\net8.0\applicationLayer_data_access.deps.json
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\bin\Debug\net8.0\applicationLayer_data_access.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\bin\Debug\net8.0\applicationLayer_data_access.dll
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\bin\Debug\net8.0\applicationLayer_data_access.pdb
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\obj\Debug\net8.0\applicationLayer_data_access.dll
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\obj\Debug\net8.0\refint\applicationLayer_data_access.dll
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\obj\Debug\net8.0\applicationLayer_data_access.pdb
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\obj\Debug\net8.0\applicationLayer_data_access.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Training_Practice_Folder\.net projects\applicationLayer_data_access\applicationLayer_data_access\obj\Debug\net8.0\ref\applicationLayer_data_access.dll

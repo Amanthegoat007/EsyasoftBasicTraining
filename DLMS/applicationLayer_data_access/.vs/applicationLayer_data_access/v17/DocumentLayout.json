@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\Training_Practice_Folder\\.net projects\\applicationLayer_data_access\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45340E47-448B-4941-AC02-3A583781A8DA}|applicationLayer_data_access\\applicationLayer_data_access.csproj|c:\\users\\user\\onedrive\\desktop\\training_practice_folder\\.net projects\\applicationlayer_data_access\\applicationlayer_data_access\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340E47-448B-4941-AC02-3A583781A8DA}|applicationLayer_data_access\\applicationLayer_data_access.csproj|solutionrelative:applicationlayer_data_access\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340E47-448B-4941-AC02-3A583781A8DA}|applicationLayer_data_access\\applicationLayer_data_access.csproj|c:\\users\\user\\onedrive\\desktop\\training_practice_folder\\.net projects\\applicationlayer_data_access\\applicationlayer_data_access\\obis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340E47-448B-4941-AC02-3A583781A8DA}|applicationLayer_data_access\\applicationLayer_data_access.csproj|solutionrelative:applicationlayer_data_access\\obis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340E47-448B-4941-AC02-3A583781A8DA}|applicationLayer_data_access\\applicationLayer_data_access.csproj|c:\\users\\user\\onedrive\\desktop\\training_practice_folder\\.net projects\\applicationlayer_data_access\\applicationlayer_data_access\\meterobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340E47-448B-4941-AC02-3A583781A8DA}|applicationLayer_data_access\\applicationLayer_data_access.csproj|solutionrelative:applicationlayer_data_access\\meterobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45340E47-448B-4941-AC02-3A583781A8DA}|applicationLayer_data_access\\applicationLayer_data_access.csproj|c:\\users\\user\\onedrive\\desktop\\training_practice_folder\\.net projects\\applicationlayer_data_access\\applicationlayer_data_access\\dlmsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45340E47-448B-4941-AC02-3A583781A8DA}|applicationLayer_data_access\\applicationLayer_data_access.csproj|solutionrelative:applicationlayer_data_access\\dlmsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DlmsService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Training_Practice_Folder\\.net projects\\applicationLayer_data_access\\applicationLayer_data_access\\DlmsService.cs",
+              "RelativeDocumentMoniker": "applicationLayer_data_access\\DlmsService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Training_Practice_Folder\\.net projects\\applicationLayer_data_access\\applicationLayer_data_access\\DlmsService.cs",
+              "RelativeToolTip": "applicationLayer_data_access\\DlmsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:50:59.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "meterObject.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Training_Practice_Folder\\.net projects\\applicationLayer_data_access\\applicationLayer_data_access\\meterObject.cs",
+              "RelativeDocumentMoniker": "applicationLayer_data_access\\meterObject.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Training_Practice_Folder\\.net projects\\applicationLayer_data_access\\applicationLayer_data_access\\meterObject.cs",
+              "RelativeToolTip": "applicationLayer_data_access\\meterObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:50:23.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "obis.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Training_Practice_Folder\\.net projects\\applicationLayer_data_access\\applicationLayer_data_access\\obis.cs",
+              "RelativeDocumentMoniker": "applicationLayer_data_access\\obis.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Training_Practice_Folder\\.net projects\\applicationLayer_data_access\\applicationLayer_data_access\\obis.cs",
+              "RelativeToolTip": "applicationLayer_data_access\\obis.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:49:30.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\Training_Practice_Folder\\.net projects\\applicationLayer_data_access\\applicationLayer_data_access\\Program.cs",
+              "RelativeDocumentMoniker": "applicationLayer_data_access\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\Training_Practice_Folder\\.net projects\\applicationLayer_data_access\\applicationLayer_data_access\\Program.cs",
+              "RelativeToolTip": "applicationLayer_data_access\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:57:26.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
